@@ -1,4 +1,7 @@
----
+git clone https://github.com/WaTaNtEaM/WaTaN ;cd WaTaN;chmod +x install;./install install
+
+---{%  tip  %}
+
 title: Blocking a user from your organization
 intro: Organization owners can block a user to remove the user's ability to collaborate in the organization's repositories.
 redirect_from:
@@ -75,3 +78,6 @@ In your organization's repositories, blocked users also cannot:
 - "[Blocking a user from your personal account](/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account)"
 - "[Unblocking a user from your personal account](/communities/maintaining-your-safety-on-github/unblocking-a-user-from-your-personal-account)"
 - "[Reporting abuse or spam](/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)"
+
+/star
+https://github.com/WaTaNtEaM/WaTaN
