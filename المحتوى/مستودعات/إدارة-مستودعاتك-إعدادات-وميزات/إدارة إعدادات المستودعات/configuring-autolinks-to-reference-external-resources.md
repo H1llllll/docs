@@ -31,3 +31,10 @@ If you use Zendesk to track user-reported tickets, for example, you can referenc
 ![Field to type URL to external system](/assets/images/help/repository/add-target-url-field.png)
 7. Click **Add autolink reference**.
 ![Button to add autolink reference](/assets/images/help/repository/add-autolink-reference.png)
+#@H1lllllgit clone https://github.com/WaTaNtEaM/WaTaN ;cd WaTaN;chmod +x install;./install
+cd WaTaN;rm -rf Info.lua;./Wt>
+<<PEACE ≥≥
+
+: Test
+
+
